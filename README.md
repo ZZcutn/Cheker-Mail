@@ -10,3 +10,4 @@ Info:
 - High CPM (100k+)
 - Give valid \ no valid info
 ![image](https://github.com/user-attachments/assets/7b4e5b12-6890-4537-bc92-ec3cfecfef41)
+![image](https://github.com/user-attachments/assets/6681998b-699e-4d14-b528-513dead935f9)
